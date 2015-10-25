@@ -1,0 +1,8 @@
+name: elder-population-in-chile
+account: pachamaltese
+server: shinyapps.io
+bundleId: 250677
+url: https://pachamaltese.shinyapps.io/elder-population-in-chile
+when: 1440382542.39528
+asMultiple: FALSE
+asStatic: FALSE
